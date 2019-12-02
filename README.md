@@ -15,7 +15,7 @@ git clone https://github.com/gokhangerdan/EasyML
 ```
 
 Create new nodes and tests of them in core/NodeRepository like the examples: column_filter.py, test_column_filter.py, column_rename.py, test_column_rename.py
-In core/NodeRepository/__init__.py import new nodes and tests than append them to __all__
+In core/NodeRepository/\__init__.py import new nodes and tests than append them to \__all__
 
 ### Test
 
