@@ -19,16 +19,18 @@ In core/NodeRepository/__init__.py import new nodes and tests than append them t
 
 ### Test
 
+For testing all nodes
+
 ```sh
 git clone https://github.com/gokhangerdan/EasyML
 cd EasyML/core
 python3 test.py
 ```
 
-Use
+For testing specific nodes
 
 ```sh
 python3 test.py new_node column_filter column_name
 ```
 
-for testing specific nodes
+
