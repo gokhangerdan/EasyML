@@ -2,7 +2,7 @@ UNDER DEVELOPMENT
 
 # EasyML
 
-An easy to use framework to generate simple machine learning web applications.
+An easy to use framework to generate maintainable machine learning web applications.
 
 ### Language
 
